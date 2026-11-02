@@ -1,0 +1,15 @@
+---
+{
+  "schema_version": "authorship/3.1.0",
+  "tlab_version": "0.14.2",
+  "base_commit_sha": "5134ba5340b57c609928845c51a8b82bb9d29027",
+  "prompts": {},
+  "changes": [
+    {
+      "old_path": "README.md",
+      "deletions": {
+        "human": 1
+      }
+    }
+  ]
+}
