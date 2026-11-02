@@ -1,0 +1,22 @@
+README.md
+  h_6f865ba3416de2 1
+---
+{
+  "schema_version": "authorship/3.1.0",
+  "tlab_version": "0.14.2",
+  "base_commit_sha": "a6608901bbf62c4db07711f61ba61360bb949391",
+  "prompts": {},
+  "humans": {
+    "h_6f865ba3416de2": {
+      "author": "wanyongyi <wanyongyi@agibot.com>"
+    }
+  },
+  "changes": [
+    {
+      "new_path": "README.md",
+      "additions": {
+        "human": 1
+      }
+    }
+  ]
+}
